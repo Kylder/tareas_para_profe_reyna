@@ -1,11 +1,3 @@
-var a,i,sum=0;
-a = prompt("Ingresar ")
-for (i=1;i=>a;i+=1)
-{
-    sum+=1
-}
-document.write(sum)
-
 var n;
 
 n=prompt("Ingrese la cantidad de numeros: ");
